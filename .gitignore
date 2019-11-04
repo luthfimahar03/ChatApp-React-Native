@@ -60,4 +60,4 @@ buck-out/
 
 # TAMBAHAN
 .env
-/android/app/src/main/AndroidManifest.xml
+android_value.txt
